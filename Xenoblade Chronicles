@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Xenoblade Chronicles</title>
+        <link rel="stylesheet" href="XenoStyle.css">
+        <style>
+            h3{
+                color: red;
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 15px;
+            }
+            #colorda {
+                color:green;
+                font-weight: 100;
+            }
+            .haed{
+                color:brown;
+            }
+            
+        </style>
+    </head>
+
+    <body style="color: rgb(32, 103, 23); text-align: right;">
+        
+        <img src="Xenoblade_Chronicles_logo.png"alt="Xenoblade Chronicles Logo" height="200" width="auto" style="float:top">
+
+        <p>Xenoblade Chronicles is a series of action role-playing games developed by <i>Monolith Soft</i> and published by <i>Nintendo</i>. It is a part of the Xeno metaseries created 
+            by <i>Tetsuya Takahashi</i>, but was formed after Nintendo's acquisition of Monolith Soft in 2007. The series began with the original Xenoblade Chronicles game, published for 
+            the <i>Nintendo Wii</i> in 2010; it was a critical and commercial success, and spawned sequels.<br/><br/>The series has been both critically and commercially successful 
+            selling 6.8 million copies worldwide. Xenoblade Chronicles was well-received for its world design, music, stories, and themes. The series has been represented in other gaming 
+            franchises, including the <i>Super Smash Bros.</i> and <i>Project X Zone</i> series. </p>
+        
+        <img src="Xenoblade_frozen_gods_model.png"alt="Xenoblade Chronicles Gods Model" height="300" width="auto" style="float:right">
+        <p>Tetsuya Takahashi formed the original concept and served as the game's executive director. Takahashi had previously worked in the 1990s on 
+            <a href="https://en.wikipedia.org/wiki/Xenogears"><i>Xenogears</i></a>, then on the <a href="https://en.wikipedia.org/wiki/Xenosaga"><i>Xenosaga</i></a> trilogy after founding 
+            Monolith Soft in 1999. Xenosaga was intended to be a six-part series, but low commercial performances forced the planned Xenosaga series to be halved. After these events, the 
+            entire development team was in a state of low morale. The initial concept for Xenoblade Chronicles, of people living on the bodies of gigantic gods, came to Takahashi in June 2006. 
+            Struck by his idea, he immediately committed it to paper and showed the draft to other senior staff, who were favorably impressed. One of them, an executive called Yasuyuki Honne, 
+            thought it would make a good 3D model and bought materials to create it. Construction began in July: during this period, younger staff acted as models so that Takahashi could 
+            establish which parts of the gods' bodies could be used as habitable and navigable environments in various poses.</p>
+        <p>After the model's construction, Takahashi decided to combine the model's concept with an unrelated story idea, which became the basis for a new game after positive feedback from 
+            staff. Takahashi later said that one of the main reasons for developing the game was to bolster team morale after the commercial failure of the Xenosaga games. The team first 
+            showed their proposal to Nintendo prior to the final development stages of <a href="https://en.wikipedia.org/wiki/Disaster:_Day_of_Crisis"><i>Disaster: Day of Crisis</i></a>.</p>
+            
+
+        <h2 style="color: goldenrod; text-align: center;"><b>Games in the Series</b><br/></h2>
+            <ul class="haed">
+                <li>Xenoblade Chronicles (2010) </li>
+                <li>Xenoblade Chronicles 3D (2015)</li>
+                <li>Xenoblade Chronicles X (2015)</li>
+                <li>Xenoblade Chronicles 2 (2017)</li>
+                <li>Xenoblade Chronicles 2: Torna - The Golden Country (2018)</li>
+                <li>Xenoblade Chronicles: Definitive Edition (2020)</li>
+                <li>Xenoblade Chronicles 3 (2022) </li>
+            </ul>
+
+            <h2 id="colorda"><b>Xenoblade Chronicles</b><br/></h2>
+            <img src="Xenoblade.png"alt="Xenoblade Chronicles Boxart" height="100" width="auto" style="float:top">
+            <p>Xenoblade Chronicles takes place on the frozen bodies of two warring titans, the Bionis and the Mechonis. The people of Bionis, including the human-like Homs, are in a 
+                perpetual war with the Mechon machine race of Mechonis. Key to the Homs' efforts in fighting against the Mechon army is the Monado, a sword that is said to have been
+                 wielded by the Bionis. During an attack on his colony, the main protagonist Shulk discovers his ability to wield the Monado and sets out on a quest for revenge with his 
+                 best friend, Reyn, with others joining in as the game progresses. </p>
+            <p>Xenoblade Chronicles plays as an action role-playing video game (RPG), where the player controls one character out of a party of three. The game employs an open world design, 
+                with players able to freely navigate seamlessly interconnected environments. A day-and-night time cycle exists in the game, with the time of day often affecting in-game events,
+                 quests, enemy strengths, and item availability: for instance, stronger enemy types appear at night.</p>
+
+        
+            <h3>Xenoblade Chronicles 3D</h3>
+
+            <p>A port for the New Nintendo 3DS, titled Xenoblade Chronicles 3D, was released worldwide in April 2015. It features StreetPass functionality, as well as compatibility with 
+                the Shulk amiibo. </p>
+
+            <h3><b>Xenoblade Chronicles: Definitive Edition</b><br/></h3>
+
+            <p>An expanded remaster of the original game, Xenoblade Chronicles: Definitive Edition, was announced in September 2019 during a Nintendo Direct presentation. In addition to 
+                enhanced visuals, remastered music, an updated user interface, and other quality-of-life improvements, Definitive Edition also includes a new epilogue scenario titled Future 
+                Connected, which centers on the character Melia and is set one year after the main game's events.</p>
+
+            <h2><b>Xenoblade Chronicles X</b><br/></h2>
+            <img src="Xenoblade_Chronicles_X_-_Boxart.jpg"alt="Xenoblade Chronicles X Boxart" height="100" width="auto" style="float:top">
+            <p>Xenoblade Chronicles X is unconnected to any previous game in the Xeno series, although there are thematic and aesthetic references. After Earth is caught in the crossfire 
+                of an alien war, humanity escapes on spaceships — only a few ships make it off the planet, one of them being the White Whale, containing the city New Los Angeles (NLA). 
+                The game takes place on Mira, an uncharted world far away from Earth where the White Whale crash-lands: NLA becomes the center of human activity and commerce. Mira is 
+                divided into five continents — Primordia, which has the most Earth-like environment; Noctilum, covered by forests and filled with bioluminescent lifeforms; Oblivia, 
+                dominated by desert and ancient ruins; Sylvalum, a pale landscape clouded in mist and dominated by large plants and rock formations; and Cauldros, a volcanic land controlled 
+                by the Ganglion</p>
+            <p>The main character is a player-created avatar whose body type, appearance, and voice can be chosen from a variety of options. The avatar becomes a member of BLADE 
+                (Builders of the Legacy After the Destruction of Earth). Joining the avatar on their missions is Elma, the leader of BLADE and Colonel of NLA's Skell forces; Lin Lee Koo, 
+                BLADE's engineer and a girl genius who created and maintains NLA's Skell mechs; and Lao Huang, a former US Army officer with a cool exterior.</p>
+            <p>Xenoblade Chronicles X opens as humanity, warned of its impending destruction in the crossfire between two warring alien races, constructs interstellar arks to escape Earth. 
+                However, only a few arks escape the destruction, including the White Whale. Two years after launching, the White Whale is attacked and transported to Mira. During the 
+                crash-landing, the Lifehold—a device containing the majority of the human colonists—is separated from the White Whale, with lifepods containing colonists being scattered 
+                across Mira. The avatar is awoken from a lifepod by Elma and brought back to New Los Angeles. While suffering from amnesia, the avatar joins BLADE, working with Elma and 
+                Lin to recover more lifepods and search for the Lifehold. During their missions across Mira, BLADE encounters multiple alien races, learning that those attacking them are 
+                part of the Ganglion coalition, an alliance of races led by the Ganglion race, who are intent on destroying humanity.</p>
+
+            <h2><b>Xenoblade Chronicles 2</b><br/></h2>
+            <img src="XenobladeChronicles2.jpg"alt="Xenoblade Chronicles 2 Boxart" height="100" width="auto" style="float:top">
+            <p>The game is set in the fictional land of Alrest, a sea topped with clouds, called the "Cloud Sea", inhabited by massive creatures known as Titans on which humanity lives. 
+                Legends claim humanity once lived atop the "World Tree", a massive tree in the center of Alrest in a paradise called Elysium with their creator, the Architect, but they
+                 were exiled for unknown reasons and given the Titans to live on. Blades are powerful beings summoned from "Core Crystals" who channel power into their weapons through a 
+                 force called ether. Their masters are called Drivers; when a Driver dies, their Blade reverts to a Core Crystal and loses their memory. After some time, another Driver 
+                 can awaken them so long as the crystal is intact. Due to the close spiritual bond between Driver and Blade, the personality of the former influences that of the latter. 
+                 Two nations, Mor Ardain and Uraya are on the brink of war throughout the story. </p>
+            <p>Different from prior titles, characters in the party also control additional beings known as Blades. Each character can only have three Blades active at a time, which
+                 determines the character's class, between offensive attacker, healer or defensive tanks. The game's Blades and skills are based on eight elements: fire, water, wind,
+                  ice, electric, earth, light and dark. There are a total of 40 distinctly unique "rare" Blades to collect throughout the base game with an additional 11 being obtainable 
+                  either through downloadable content or New Game Plus in later patches. Most of the game's Blades are not a part of the main story, and can be assigned to any Driver; 
+                  among those is KOS-MOS from the Xeno sub-series <i>Xenosaga</i>.</p>
+            
+            <h3><b>Xenoblade Chronicles 2: Torna - The Golden Country</b><br/></h3>
+
+            <p>Xenoblade Chronicles 2: Torna – The Golden Country is DLC (Downloadable Content) for Xenoblade Chronicles 2 that features a brand-new story and environments, 
+                taking place 500 years before the events of Xenoblade Chronicles 2. It explores the pasts of several main characters from the base game, such as Jin, Mythra, Malos, and 
+                Praetor Amalthus, and introduces characters such as Lora and Addam as playable party members.</p>
+
+            <h2><b>Xenoblade Chronicles 3</b><br/></h2>
+            <img src="Xenoblade3.png"alt="Xenoblade Chronicles 3 Boxart" height="100" width="auto" style="float:top">
+            <p>Set after the events of Xenoblade Chronicles and Xenoblade Chronicles 2, Xenoblade Chronicles 3 takes place in the world of Aionios, where the mechanically proficient 
+                nation of Keves and the ether-oriented nation of Agnus are at constant war with one another. The world is divided into colonies, each with their own giant metal mech 
+                called a Ferronis, which trap the life force of fallen enemy soldiers in a Flame Clock. The wars are fought by engineered soldiers with artificially limited lifespans 
+                of ten years, as they fight to fill their colony's Flame Clock in hopes of receiving a Homecoming ceremony at the end of their term. Among both forces are "off-seers", 
+                soldiers who play special flutes in rituals to send off the dead, functioning as a short funeral. The game features six main characters, including two protagonists: 
+                Noah, a Kevesi off-seer accompanied by his childhood friends Lanz and Eunie; and Mio, an Agnian off-seer accompanied by fellow servicemen Taion and Sena.</p>
+
+            <P>The music of Xenoblade Chronicles 3 has gained lots of attention since the game was announced. With a team helmed by legendary JRPG composer 
+                <i>Yasunori Mitsuda</i> (of <i>Chrono Trigger</i>, <i>Xenogears</i>, and <i>Chrono Cross</i> fame), and made up of Xenoblade series veterans ACE, Kenji Hiramatsu, 
+                and Manami Kiyota, the music is undoubtably of great quality. One of the most striking tunes heard is the game's main theme — A Life Sent On. 
+                Lead by a beautiful Celtic-sounding flute, and evoking powerful emotions, it's a haunting melody, and despite sounding a little Celtic,
+                 there's something very unique about it, which comes down to some custom-made flutes.</P>
+            <p>These two flutes are based on the flutes that Noah and Mio play in-game. Not only is the flute a key instrument for the game's music, but it's also an important narrative 
+                device. Played by an Off-Seer, this person uses the flute to send off the dead with a beautiful, ethereal song. So there was no other way about it — that main theme, the 
+                one that plays when Noah is first seen playing the flute in the trailer, had to be played with the same instrument by the musicians. </p>
+                
+
+            <div><br/><br/>
+                <img src="Xeno3flutes.jpg"alt="Xenoblade 3 Flutes" height="300" width="auto" style="float:left">
+                <blockquote>
+                <p><i>"Before Mitsuda-san started writing the music, he said, "Let's make flutes." I wondered why we should be making them, but Mitsuda-san said, "By making the flutes from scratch,
+                    you can create a sound that hasn't been heard before." Since we had told Mitsuda-san in advance that Takahashi-san wanted to interweave the two melodies of Noah and Mio into a
+                    single piece of music, Mitsuda-san seemed to have thought that creating the flutes from scratch would enable him to choose a scale freely and express himself more easily. 
+                    Above all, he said to me that the fact that the same flutes used in the game exist in real life would be compelling and unique. It sounded interesting, 
+                    so I decided to give it a try."</i></p>
+                <p><i>"...the music is comprised of two distinct melodies, one of Noah and one of Mio. Noah’s melody is played by a larger flute with a slightly lower pitch, whereas Mio’s melody 
+                        is played by a smaller flute with a slightly higher pitch."</i></p>    
+
+                <cite><i> — Koh Kojima</i></cite>
+                </blockquote>
+            
+
+                <audio controls src="A Life Sent On – Xenoblade Chronicles 3 (Nintendo Switch).mp3"></audio>
+            </div>
+
+            <br/><br/><br/><br/><br/>
+            <h2><b>Where to Play Each Title:</b></h2>
+            <div>
+                <table>
+                    <thead>
+                        <th><b>Title</b></th>
+                        <th><b>Platform</b></th>
+                    </thead>
+                    <tbody>
+                         <tr>
+                             <td>Xenoblade Chronicles</td>
+                             <td>Nintendo Wii, 3DS, Switch</td>
+                         </tr>
+                         <tr>
+                             <td>Xenoblade Chronicles X</td>
+                            <td>Nintendo Wii U</td>
+                        </tr>
+                         <tr>
+                            <td>Xenoblade Chronicles 2</td>
+                             <td>Nintendo Switch</td>
+                        </tr>
+                        <tr>
+                            <td>Xenoblade Chronicles 3</td>
+                            <td>Nintendo Switch</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+<br/><br/><br/>
+                <h2>What is your Favourite Game in Series:</h2>
+                <form>
+                    <div>
+                        <input name = "Xenoblade" type = "radio" value="Xenoblade1">Xenoblade Chronicles 1
+                        <input name = "Xenoblade" type = "radio" value="XenobladeX">Xenoblade Chronicles X
+                        <input name = "Xenoblade" type = "radio" value="Xenoblade2">Xenoblade Chronicles 2
+                        <input name = "Xenoblade" type = "radio" value="Xenoblade3">Xenoblade Chronicles 3
+                    </div>
+                </form>
+            </div>
+     </body>
